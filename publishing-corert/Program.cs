@@ -7,3 +7,8 @@ namespace publishing_corert
     static void Main(string[] args) => Console.WriteLine($"Hello {args[0]}!");
   }
 }
+
+
+
+
+

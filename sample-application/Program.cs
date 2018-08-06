@@ -1,9 +1,14 @@
-﻿using System;
+﻿
 
-namespace sample_application
+using System;
+
+namespace Publishing
 {
   class Program
   {
     static void Main(string[] args) => Console.WriteLine($"Hello {args[0]}!");
   }
 }
+
+
+
